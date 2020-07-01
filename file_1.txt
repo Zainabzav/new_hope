@@ -1,0 +1,3 @@
+Hi guys, I'm Zainab
+This file is a part of my first lab in the git course
+Thank you
